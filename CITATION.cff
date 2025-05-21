@@ -1,0 +1,18 @@
+authors:
+- affiliation: Delft University of Technology
+  family-names: Bharadwaj, Alok
+- affiliation: Delft University of Technology
+  family-names: Jakobi, Arjen J.
+cff-version: 1.2.0
+date-released: '2025-05-21'
+doi: 10.5281/zenodo.15485094
+identifiers:
+- type: swh
+  value: swh:1:dir:f40301773b67ff7a22dc1f3913c59c1ab953384a;origin=https://doi.org/10.5281/zenodo.15485093;visit=swh:1:snp:fcc8831ea2a71417466deee3f1c5cc6cc253c8e1;anchor=swh:1:rel:9fc97022e54641047a44bf0bf5550ac775267dcb;path=cryoTUD-ColabScale-133c423
+license:
+- bsd-3-clause
+message: If you use this software, please cite it using the metadata from this file.
+repository-code: https://github.com/cryoTUD/ColabScale/tree/v0.1.0
+title: 'ColabScale: v0.1.0'
+type: software
+version: v0.1.0
