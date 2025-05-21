@@ -1,8 +1,10 @@
 authors:
 - affiliation: Delft University of Technology
   family-names: Bharadwaj, Alok
+  orcid: "https://orcid.org/0000-0002-7223-5648"
 - affiliation: Delft University of Technology
   family-names: Jakobi, Arjen J.
+  orcid: "https://orcid.org/0000-0002-7761-2027"
 cff-version: 1.2.0
 date-released: '2025-05-21'
 doi: 10.5281/zenodo.15485094
